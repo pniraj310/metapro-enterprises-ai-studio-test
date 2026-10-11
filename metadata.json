@@ -1,0 +1,8 @@
+{
+  "name": "MetaPro Enterprises",
+  "description": "MetaPro Enterprises — Premium construction and interior materials, fasteners, wall panels, and architectural products. Build Better. Finish Better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

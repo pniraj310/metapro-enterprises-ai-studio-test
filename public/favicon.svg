@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="28" fill="#FAF9F6"/>
+  <!-- Left leg + left diagonal arm of M -->
+  <path d="M 32 22 L 106 78 L 91 90 L 54 62 L 54 160 L 32 160 Z" fill="#08142C"/>
+  <!-- Right slash + top-right peak of M -->
+  <path d="M 78 106 L 170 22 L 170 76 C 163 71 156 69 148 69 L 148 56 L 78 120 Z" fill="#08142C"/>
+  <!-- Gold P vertical stem -->
+  <path d="M 105 117 L 127 99 L 127 176 L 105 176 Z" fill="#EAB01E"/>
+  <!-- Gold P loop -->
+  <path d="M 133 94 L 150 80 C 176 80 192 96 192 118 C 192 140 176 155 152 155 L 134 155 L 134 135 L 151 135 C 164 135 171 128 171 118 C 171 107 164 100 150 100 L 133 100 Z" fill="#EAB01E"/>
+</svg>
